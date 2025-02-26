@@ -1,4 +1,4 @@
-# Willian dos Santos Oliveira - Desenvolvedor Full Stack 👨‍💻
+# Willian  - Desenvolvedor Full Stack 👨‍💻
 
 ## Olá, eu sou Willian dos Santos Oliveira! 👋
 
