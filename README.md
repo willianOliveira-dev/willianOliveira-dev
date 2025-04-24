@@ -8,16 +8,16 @@ Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento web,
 
 ---
 
-## 🚀 Sobre Mim
+## Sobre Mim
 
-- **Nascido no Rio de Janeiro** 🌆
+- **Nascido no Rio de Janeiro** 
 - **Objetivo:** Tornar-se um Desenvolvedor Full Stack.
 - **Conhecimentos atuais:** HTML, CSS, SQL, Python, Node.js e JavaScript.
 - **Sempre em busca de aprender mais e aprimorar minhas habilidades.**
 
 ---
 
-## 🛠️ Tecnologias que eu uso
+##  Tecnologias que eu uso
 
 Aqui estão algumas das tecnologias com as quais trabalho:
 
@@ -51,8 +51,8 @@ Vamos nos conectar! Você pode me encontrar no LinkedIn:
 
 ## 💬 Mensagem Motivacional
 
-**Sempre em busca de novos desafios e oportunidades para crescer!** 🚀
+**Sempre em busca de novos desafios e oportunidades para crescer!** 
 
 ---
 
-⭐️ **Dica:** Se você gostou do meu perfil, deixe uma estrela no repositório! 😊
+ **Dica:** Se você gostou do meu perfil, deixe uma estrela no repositório! 
