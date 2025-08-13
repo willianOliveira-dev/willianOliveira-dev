@@ -6,9 +6,10 @@
 
 Sou estudante de Desenvolvimento Full Stack na Universidade Unigranrio Afya e estou em busca de oportunidades no mercado de trabalho.
 
-Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento web, tanto no front-end quanto no back-end. Tenho experiência na criação de interfaces responsivas e dinâmicas utilizando **HTML**, **CSS** e **JavaScript**, além de trabalhar com bancos de dados relacionais (**SQL**) e desenvolvimento de APIs com **Node.js**. Também estou aprendendo **TypeScript** e utilizando **Git** para controle de versão.
+Sou desenvolvedor em formação com conhecimento sólido em TypeScript, JavaScript, React, Node.js, Python e Java, aplicando boas práticas de programação e princípios de Clean Code para entregar soluções eficientes, escaláveis e de fácil manutenção. Possuo experiência no uso do Git para controle de versão e gestão colaborativa de projetos.
 
-**
+Atuo no desenvolvimento front-end e back-end, criando interfaces modernas, responsivas e de alto desempenho, além de desenvolver APIs robustas e gerenciar bancos de dados relacionais (SQL). Meu foco está em unir performance, qualidade de código e experiência do usuário para entregar resultados consistente
+
 ---
 
 ## Sobre Mim
