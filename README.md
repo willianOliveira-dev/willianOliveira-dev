@@ -1,4 +1,6 @@
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&lines=🚀+Willian+-+Desenvolvedor+Full+Stack;💻+Criando+o+Futuro+com+Código)](https://git.io/typing-svg)
+
 # Willian - Desenvolvedor Full Stack
 
 ## Olá, eu sou Willian dos Santos Oliveira!
@@ -7,6 +9,7 @@ Sou estudante de Desenvolvimento Full Stack na Universidade Unigranrio Afya e es
 
 Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento web, tanto no front-end quanto no back-end. Tenho experiência na criação de interfaces responsivas e dinâmicas utilizando **HTML**, **CSS** e **JavaScript**, além de trabalhar com bancos de dados relacionais (**SQL**) e desenvolvimento de APIs com **Node.js**. Também estou aprendendo **TypeScript** e utilizando **Git** para controle de versão.
 
+**
 ---
 
 ## Sobre Mim
@@ -47,7 +50,17 @@ Atualmente, utilizo tecnologias como React e TypeScript no front-end, e Node.js 
 
 Sou movido por desafios técnicos e pela curiosidade de entender como as tecnologias se conectam para formar sistemas completos. Acredito que a tecnologia tem o poder de transformar ideias em soluções úteis, e isso é o que me motiva a seguir carreira como Desenvolvedor Full Stack.
 
-Além das stacks que já domino, estou sempre buscando aprender novos frameworks, ferramentas e conceitos — especialmente nas áreas de automação de processos, integração de sistemas e aplicações escaláveis.
+Gosto de construir **soluções reais**, explorando as possibilidades que o desenvolvimento web oferece.  
+
+ **Stack Atual:**  
+- **Front-end:** React + TypeScript  
+- **Back-end:** Node.js + Express  
+- **Banco de Dados:** SQL  
+- **Versionamento:** Git  
+
+Acredito que **tecnologia transforma ideias em soluções úteis** — e é isso que me motiva a seguir carreira como Desenvolvedor Full Stack.  
+
+Sempre buscando aprender novos frameworks, ferramentas e conceitos — especialmente em **automação**, **integração de sistemas** e **aplicações escaláveis**.  
 ---
 
 ## Redes Sociais
@@ -55,4 +68,5 @@ Além das stacks que já domino, estou sempre buscando aprender novos frameworks
 Vamos nos conectar! Você pode me encontrar no LinkedIn:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-oliveira-66a230353/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/willianOliveira-dev/)
 
