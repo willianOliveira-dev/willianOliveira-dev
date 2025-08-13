@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&lines=Willian+-+Desenvolvedor+Full+Stack;Criando+o+Futuro+com+Código)](https://git.io/typing-svg)
 
-# Willian - Desenvolvedor Full Stack
-
 ## Olá, eu sou Willian dos Santos Oliveira!
 
 Sou estudante de Desenvolvimento Full Stack na Universidade Unigranrio Afya e estou em busca de oportunidades no mercado de trabalho.
