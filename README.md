@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=wave&height=200&color=00F0FF&text=Willian%20-%20Desenvolvedor%20Full%20Stack&fontColor=0ff&fontSize=35&animation=twinkling&fontAlignY=35)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Willian+Oliveira;Desenvolvedor+Full+Stack;Criando+Soluções+Inovadoras;Transformando+Ideias+em+Código;Pronto+para+Novos+Desafios)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&lines=Willian+-+Desenvolvedor+Full+Stack;Criando+o+Futuro+com+Código)](https://git.io/typing-svg)
 
