@@ -71,5 +71,5 @@ Vamos nos conectar! Você pode me encontrar no LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-oliveira-66a230353/)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/willianOliveira-dev/)
 
-https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=120&section=footer)
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=120&section=footer)
 
