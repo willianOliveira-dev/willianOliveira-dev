@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Willian+Oliveira;Desenvolvedor+Full+Stack;Criando+Soluções+Inovadoras;Transformando+Ideias+em+Código;Pronto+para+Novos+Desafios)](https://git.io/typing-svg)
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0A0F1E,50:031A2E,100:00F0FF&text=Willian%20-%20Desenvolvedor%20Full%20Stack&fontColor=E6FFFA&fontSize=36&fontAlignY=40&animation=twinkling&descAlignY=55)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&lines=Willian+-+Desenvolvedor+Full+Stack;Criando+o+Futuro+com+Código)](https://git.io/typing-svg)
 
@@ -70,4 +70,6 @@ Vamos nos conectar! Você pode me encontrar no LinkedIn:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-oliveira-66a230353/)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/willianOliveira-dev/)
+
+https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=120&section=footer)
 
