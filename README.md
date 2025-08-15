@@ -16,7 +16,7 @@ Atuo no desenvolvimento front-end e back-end, criando interfaces modernas, respo
 
 - **Nascido no Rio de Janeiro** 
 - **Objetivo:** Tornar-me um Desenvolvedor Full Stack.
-- **Conhecimentos atuais:** HTML, CSS, SQL, Python, Node.js, JavaScript, TypeScript e Git.
+- **Conhecimentos atuais:** HTML, CSS, SQL, Python, Node.js, JavaScript, TypeScript, Java, React, Express e Git.
 - **Sempre em busca de aprender mais e aprimorar minhas habilidades.**
 
 ---
