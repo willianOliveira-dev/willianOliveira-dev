@@ -128,6 +128,6 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas Unigranrio Afya — Rio de 
 
 ### Aberto a oportunidades como engenheiro backend, fullstack ou de APIs. Remoto · Híbrido · Rio de Janeiro
 
-[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-oliveira-66a230353/)
+[![LinkedIn](https://img.shields.io/badge/Conecte--se_comigo_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-oliveira-66a230353/)
 
 </div>
