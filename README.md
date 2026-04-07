@@ -10,7 +10,7 @@
 ```
 
 # Willian Oliveira
-### Fullstack Developer · Backend Specialist · Node.js / TypeScript / NestJS
+### Desenvolvedor Fullstack · Especialista Backend · Node.js / TypeScript / NestJS / Fastify
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Building+scalable+APIs+%26+distributed+systems;TypeScript+%7C+Node.js+%7C+NestJS+%7C+Fastify;Microservices+%7C+AI+integrations+%7C+Clean+Architecture;5+production+projects+deployed)](https://github.com/willianOliveira-dev)
 
@@ -23,23 +23,23 @@
 
 ---
 
-## About
+## Sobre mim
 
-Fullstack developer focused on **backend architecture** — building scalable APIs and distributed systems with TypeScript, Node.js, NestJS and Fastify.
+Sou um desenvolvedor Fullstack com forte foco em arquitetura backend — dedicando-me à construção de APIs escaláveis e sistemas distribuídos utilizando TypeScript, Node.js, NestJS e Fastify.
 
-I've designed and shipped **5 production projects** — including SaaS platforms, microservice-oriented data pipelines and integrations with generative AI (Groq, Gemini) — applying patterns like Repository Pattern, JWT authentication and async processing with message queues.
+Atuo com autonomia de ponta a ponta na engenharia de software: desde a modelagem de bancos de dados robustos e implementação de rigorosas camadas de segurança, até o desenvolvimento de interfaces fluidas com React e React Native. Minha abordagem técnica envolve a aplicação de padrões como Repository Pattern, autenticação via JWT, integrações com Inteligências Artificiais Generativas e processamento assíncrono utilizando filas de mensageria.
 
-I deliver end-to-end autonomy: from database design and security layers to React and React Native interfaces, with consistent focus on **performance, type safety and clean architecture**.
+Meu compromisso profissional é entregar soluções completas sempre mantendo o foco em performance, tipagem segura (type safety) e arquitetura limpa.
 
 ```
-Rio de Janeiro, RJ  ·  Open to remote & hybrid opportunities
+Rio de Janeiro, RJ  ·  Aberto a oportunidades remotas e híbridas
 ```
 
 ---
 
 ## Tech Stack
 
-### Languages & Runtimes
+### Linguagens & Runtimes
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -69,22 +69,18 @@ Rio de Janeiro, RJ  ·  Open to remote & hybrid opportunities
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=react-query&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### Auth & Security
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
-![Better Auth](https://img.shields.io/badge/Better_Auth-111827?style=flat-square)
-![HTTP-only Cookies](https://img.shields.io/badge/HTTP--only_Cookies-FF6B35?style=flat-square)
-
-### AI & Integrations
+### IA & Integrações
 ![Groq](https://img.shields.io/badge/Groq_(Llama_3.3)-F55036?style=flat-square)
 ![Gemini](https://img.shields.io/badge/Gemini_2.5-4285F4?style=flat-square&logo=google&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen-6151FF?style=flat-square&logo=alibabacloud&logoColor=white)
 ![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![Qualquer Modelo](https://img.shields.io/badge/Qualquer_Modelo-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-### Infrastructure & Tools
+### Infraestruturas & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -93,7 +89,7 @@ Rio de Janeiro, RJ  ·  Open to remote & hybrid opportunities
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 
-### Methodologies
+### Metodologias
 ![Microservices](https://img.shields.io/badge/Microservices-0EA5E9?style=flat-square)
 ![Repository Pattern](https://img.shields.io/badge/Repository_Pattern-7C3AED?style=flat-square)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
@@ -122,17 +118,15 @@ Rio de Janeiro, RJ  ·  Open to remote & hybrid opportunities
 
 </div>
 
-## Academic Background
+## Formação Acadêmica
 
-**B.Tech in Systems Analysis and Development**  
-Unigranrio Afya — Rio de Janeiro, RJ · In progress
+Tecnólogo em Análise e Desenvolvimento de Sistemas Unigranrio Afya — Rio de Janeiro, RJ · Em andamento
 
 ---
 
 <div align="center">
 
-**Open to backend, fullstack or API engineering opportunities.**  
-Remote · Hybrid · Rio de Janeiro
+### Aberto a oportunidades como engenheiro backend, fullstack ou de APIs. Remoto · Híbrido · Rio de Janeiro
 
 [![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-oliveira-66a230353/)
 
